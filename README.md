@@ -8,3 +8,9 @@
 	<li>Run `node server.js` to get options.</li>
 	<li></li>
 </ol>
+Installation
+-----------
+On project directory:
+```
+npm install
+```
